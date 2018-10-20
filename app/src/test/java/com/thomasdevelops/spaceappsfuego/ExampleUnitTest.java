@@ -1,4 +1,4 @@
-package com.thomasdevelops.bathroomappmaps;
+package com.thomasdevelops.spaceappsfuego;
 
 import org.junit.Test;
 

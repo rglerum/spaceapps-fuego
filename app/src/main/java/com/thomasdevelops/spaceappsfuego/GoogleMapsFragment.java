@@ -1,4 +1,4 @@
-package com.thomasdevelops.bathroomappmaps;
+package com.thomasdevelops.spaceappsfuego;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -31,7 +31,7 @@ public class GoogleMapsFragment extends Fragment implements OnMapReadyCallback {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View v =  inflater.inflate(R.layout.fragment_calendar, container, false);
+        View v =  inflater.inflate(com.thomasdevelops.spaceappsfuego.R.layout.fragment_calendar, container, false);
 
         return v;
     }
@@ -40,7 +40,7 @@ public class GoogleMapsFragment extends Fragment implements OnMapReadyCallback {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         SupportMapFragment mapFragment = (SupportMapFragment)
-                getChildFragmentManager().findFragmentById(R.id.map);
+                getChildFragmentManager().findFragmentById(com.thomasdevelops.spaceappsfuego.R.id.map);
         mapFragment.getMapAsync(this);
     }
 
