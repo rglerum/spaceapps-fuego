@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spaceapps-team-fuego",
+  "private_key_id": "2792a1726b937c0ed0627aa1d1eefe8ec56887c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCUNP//WY2DoDjG\nDLpsOOH+hzLBR7f/JC0g2cYiPJQfS+SRea0W3ckVTl6dnqDbvCzN5ZR75vn+m8xS\n0GFYFpJ9PzkNHTLPAeV+Q4bA/1PSNTvqyAtQhGLwihuTguyZDYhqQbyFVzw3G0+F\n+Cf2hZgKtU6nRu8mjmtMxrSRzJ+PLFyqcqx74ha0Ie2YquIxwMcTUjPRmdYuN9S9\nrOVoj6Gf8zFq2BC6ocOEgYwiMN86vMt+rCjuT4LBfJTOuGn7Uc2qsCl+SuqRygkU\nW8MblwXr8zSLX33i8bHnkan1DRoObipq/mBGYhs1ZZR49lwOTkJ5eGYGDnAv0VRZ\nmqPnlftZAgMBAAECgf8RcKsvQTqF4rTLmXPWiFsPuJkgZXAhdgBZfUbzgG1twWCE\nPe1AY5jmCPLZWXFUajBbikiOy/9fFrZUiHDsDLvwQSBViroP4gk/cnLJA0K52cnT\nNvcd4nZCF/5mvWFaIV2MI3ArwLg1Q+F3wlvxhob9u5gl1xMNVnUJ89gL0Ch2kHP2\n5ssnXFLBn2aoFaHu5DYo+/qNISklVGNlUTicapGNdBEJMFxol0ybGbUc5djyO3yG\nTpN43PQ5n0REkptsxrSm3Rn/ZYn2XuFoiSF9UsdxPomMZUglVYMNcBrsqREsYiU3\nNPwF9aEw8INACdA1W6EXKWMweS12M8q3LEwYf0ECgYEAyk/ZIxo8ZcYHDMT/1x2i\nstjWviK139HJbH3yvXpPlX4xO5p1Z0nlg4zo+DdjP4zteus96jK/p0HXkZJyWL9Q\n6AdAUnhbxirJMjWPbRSQ2ZRkaRv7DV5/2gWcStZA8Mb4VAZdpfJO29SFVdsG6stv\n9sbkqm2JbXfR1QbtracA4ZkCgYEAu4mDKU9XR9YiCgF3uSLI7pyrJKaI7rW9yR8s\n8l2uDoVr+AeTVtHOqqSIGyI0/4sjzdxbVMrzRgkWvg/2ZjvuyqHJCiCBa7VQx8C0\noktlnd5DjGZm8cIh5ZgHJu3NS578KGgB0M2lmXNomnuCjfgeWOIHtF0nmhvOmpPF\nSPKpf8ECgYEAsH+eyL//xy5PQjWvmaVSJsOD/RbdIumr10m99s35FkukegJTwIu4\nft709G+l13CEUkNena4ug6WugmKH/aLS28pPtGMqdaUoJ/SQLzLM9/U88HInwM8b\nrUJNywBGYYjEZtGy666MW755oKBX1YksIdf88C5lwanR1w6XVnMnEqkCgYBPNeDZ\ndPKXnAFamo4X+3JFHpVG8LRLpyXXKjzQzfKznXUiGQkJlaql9sKqO0OJYBqqW9WT\ntfkU7sfVVWasfcn5emYwydQAS2AoTuO83P25tWRwi9wVZvrsP89diPm6ZBd7dZq2\nt/WnH9Dh1yMoldEzl5zLeME+XVphfeLJUf13wQKBgA9ITAbOpLJRuUwdbxn6VLhe\nvQYwQqHm1W3gXQqWiX+pMGIaByafRmuHpSmXjkBkwphtC4coI8GGsta6J4hEstnV\ndEYaaJWzN4u/wkFuT1dj5/yn9xweCCLsxEupWTOI+uRFuDSVYzAatECw7Z81B/PU\nToH/+pOhBkAlsV6x8z3a\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-analytics-service@spaceapps-team-fuego.iam.gserviceaccount.com",
+  "client_id": "111517389732079423277",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-analytics-service%40spaceapps-team-fuego.iam.gserviceaccount.com"
+}
